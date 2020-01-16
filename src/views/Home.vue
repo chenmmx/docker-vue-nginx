@@ -1,8 +1,9 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <h1>多情自古伤离别，</h1>
-    <h1>此恨绵绵无绝期。</h1>
+    <h1>大江东去，</h1>
+    <h1>浪淘尽，</h1>
+    <h1>千古风流人物。</h1>
   </div>
 </template>
 
